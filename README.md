@@ -4,7 +4,7 @@
 ![gitt](https://github.com/amir-ko/music-player/assets/119657835/ac8f134a-d13e-41fd-b8c1-f92f6dd34f31)
 
 
-- [Demo Project](https://amir-ko.github.io/weather-api/)
+- [Demo Project][(https://amir-ko.github.io/weather-api/)](https://amir-ko.github.io/music-player/)
 
 - Developed by Amirreza Kokabi & reza-estabraghi
 

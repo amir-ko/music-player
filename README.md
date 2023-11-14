@@ -6,7 +6,7 @@
 
 - [Demo Project](https://amir-ko.github.io/weather-api/)
 
-- Developed by Amirreza Kokabi & mohammad reza estabraghi
+- Developed by Amirreza Kokabi & reza-estabraghi
 
 - Created - 2023-11-14
 - Technologies Used - Html , Css ,javascript
